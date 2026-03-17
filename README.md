@@ -3,7 +3,7 @@
 ![메인이미지small](https://github.com/user-attachments/assets/40973921-d29b-49d7-a9d5-9193e13e4cba)
 
 <h2>Introduction 😎</h2>
-안녕하세요! 저는 현재 2년 가량의 경력을 가지고 있고, <br>
+안녕하세요! 저는 현재 3년 가량의 경력을 가지고 있고, <br>
 현재는 react와 Next.js 프레임워크를 이용한 개발을 주로 진행하고 있습니다!<br>
 <br>
 제 가장 큰 장점은 <b>기획력과 커뮤니케이션 능력</b>입니다. <br>
